@@ -1,9 +1,13 @@
 <pre>
-TTTTTTT HH   HH EEEEEEE    DDDDD    OOOOO  TTTTTTT FFFFFFF IIIII LL      EEEEEEE  SSSSS  
-  TTT   HH   HH EE         DD  DD  OO   OO   TTT   FF       III  LL      EE      SS      
-  TTT   HHHHHHH EEEEE      DD   DD OO   OO   TTT   FFFF     III  LL      EEEEE    SSSSS  
-  TTT   HH   HH EE         DD   DD OO   OO   TTT   FF       III  LL      EE           SS 
-  TTT   HH   HH EEEEEEE    DDDDDD   OOOO0    TTT   FF      IIIII LLLLLLL EEEEEEE  SSSSS
+ /$$$$$$$   /$$$$$$  /$$$$$$$$ /$$$$$$$$ /$$$$$$ /$$       /$$$$$$$$  /$$$$$$ 
+| $$__  $$ /$$__  $$|__  $$__/| $$_____/|_  $$_/| $$      | $$_____/ /$$__  $$
+| $$  \ $$| $$  \ $$   | $$   | $$        | $$  | $$      | $$      | $$  \__/
+| $$  | $$| $$  | $$   | $$   | $$$$$     | $$  | $$      | $$$$$   |  $$$$$$ 
+| $$  | $$| $$  | $$   | $$   | $$__/     | $$  | $$      | $$__/    \____  $$
+| $$  | $$| $$  | $$   | $$   | $$        | $$  | $$      | $$       /$$  \ $$
+| $$$$$$$/|  $$$$$$/   | $$   | $$       /$$$$$$| $$$$$$$$| $$$$$$$$|  $$$$$$/
+|_______/  \______/    |__/   |__/      |______/|________/|________/ \______/ 
+                                                                             
   </pre>                                        
   
   
