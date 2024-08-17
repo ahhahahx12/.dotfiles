@@ -1,12 +1,9 @@
 <pre>
- _____ ______       ___    ___      ________  ________  _________  ________ ___  ___       _______   ________      
-|\   _ \  _   \    |\  \  /  /|    |\   ___ \|\   __  \|\___   ___\\  _____\\  \|\  \     |\  ___ \ |\   ____\     
-\ \  \\\__\ \  \   \ \  \/  / /    \ \  \_|\ \ \  \|\  \|___ \  \_\ \  \__/\ \  \ \  \    \ \   __/|\ \  \___|_    
- \ \  \\|__| \  \   \ \    / /      \ \  \ \\ \ \  \\\  \   \ \  \ \ \   __\\ \  \ \  \    \ \  \_|/_\ \_____  \   
-  \ \  \    \ \  \   \/  /  /        \ \  \_\\ \ \  \\\  \   \ \  \ \ \  \_| \ \  \ \  \____\ \  \_|\ \|____|\  \  
-   \ \__\    \ \__\__/  / /           \ \_______\ \_______\   \ \__\ \ \__\   \ \__\ \_______\ \_______\____\_\  \ 
-    \|__|     \|__|\___/ /             \|_______|\|_______|    \|__|  \|__|    \|__|\|_______|\|_______|\_________\
-                  \|___|/                                                                              \|_________|
+TTTTTTT HH   HH EEEEEEE    DDDDD    OOOOO  TTTTTTT FFFFFFF IIIII LL      EEEEEEE  SSSSS  
+  TTT   HH   HH EE         DD  DD  OO   OO   TTT   FF       III  LL      EE      SS      
+  TTT   HHHHHHH EEEEE      DD   DD OO   OO   TTT   FFFF     III  LL      EEEEE    SSSSS  
+  TTT   HH   HH EE         DD   DD OO   OO   TTT   FF       III  LL      EE           SS 
+  TTT   HH   HH EEEEEEE    DDDDDD   OOOO0    TTT   FF      IIIII LLLLLLL EEEEEEE  SSSSS
   </pre>                                        
   
   
